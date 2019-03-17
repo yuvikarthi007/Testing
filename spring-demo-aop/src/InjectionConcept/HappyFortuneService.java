@@ -5,7 +5,7 @@ public class HappyFortuneService implements FortuneService {
 	@Override
 	public String getFortune() {
 		// TODO Auto-generated method stub
-		System.out.println("fortunenew 1");
+		System.out.println("fortunenew sample");
 		return "good";
 	}
 
