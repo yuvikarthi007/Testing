@@ -6,6 +6,7 @@ public class HappyFortuneService implements FortuneService {
 	public String getFortune() {
 		// TODO Auto-generated method stub
 		System.out.println("fortunenew sample");
+		System.out.println("fortunenew sample1");
 		return "good";
 	}
 
