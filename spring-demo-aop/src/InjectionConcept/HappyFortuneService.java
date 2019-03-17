@@ -10,4 +10,11 @@ public class HappyFortuneService implements FortuneService {
 		return "good";
 	}
 
+	@Override
+	public String buyFortune() {
+		// TODO Auto-generated method stub
+		System.out.println("buy sample");
+		System.out.println("buy sample1");
+		return "good";
+	}
 }
